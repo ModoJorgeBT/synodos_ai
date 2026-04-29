@@ -1,17 +1,18 @@
 Synodos AI: El Vacío Dialéctico
+
 Synodos AI es un proyecto de Inteligencia Artificial desarrollado para el curso de Aprendizaje Automático de la Universidad CENFOTEC
-. Consiste en un sistema de debate automatizado que enfrenta dos visiones del mundo radicalmente opuestas: "Lo Sagrado" (orden y trascendencia) de Mircea Eliade frente a "La Nada" (nihilismo y vacío) de Emil Cioran
-.
+Consiste en un sistema de debate automatizado que enfrenta dos visiones del mundo radicalmente opuestas: "Lo Sagrado" (orden y trascendencia) de Mircea Eliade frente a "La Nada" (nihilismo y vacío) de Emil Cioran
+
 🧠 El Problema Filosófico
 El sistema utiliza técnicas avanzadas de procesamiento de lenguaje natural para mediar en el conflicto dialéctico entre la búsqueda del mito eterno y la aceptación del cinismo existencial
-.
+
 🛠️ Arquitectura Técnica
 El proyecto evolucionó de una infraestructura local hacia una Arquitectura Híbrida para maximizar el razonamiento lógico
-:
+
 Inferencia: Uso de Azure AI Foundry (GPT-4o) para el procesamiento de alto nivel
-.
+
 Orquestación: Implementación de LangGraph (StateGraph) para la gestión de turnos, memoria de debate y estados entre agentes
-.
+
 Estrategia de Datos:
 Corpus de 6 libros fundamentales (3 de Eliade y 3 de Cioran) procesados en 4,661 fragmentos bibliográficos
 .
